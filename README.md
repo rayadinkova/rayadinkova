@@ -1,5 +1,7 @@
 <h1 align="center">Welcome 👋, I'm Raya Dinkova</h1>
-<h3 align="center">About me:</h3>
+<h3 align="left">About me:</h3>
+
+<img src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" alt="" />
 
 - 🌱 I’m currently learning **React and React Native**
 
