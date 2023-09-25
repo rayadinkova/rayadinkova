@@ -7,7 +7,7 @@
 
 - 🧠 Currently studying **Multimedia Design at Business Academy Aarhus**
 
-- 🤝 I’m looking for **an internship in Aarhus**
+- 🤝 I’m actively looking for **an internship in Aarhus**
 
 - 👨‍💻 All of my projects are available at [portfolio link here](portfolio link here)
 
