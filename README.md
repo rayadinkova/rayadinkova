@@ -9,11 +9,7 @@
 
 - 🤝 I’m actively looking for **an internship in Aarhus**
 
-- 👨‍💻 All of my projects are available at [portfolio link here](portfolio link here)
-
 - 📫 How to reach me **https://www.linkedin.com/in/rayadinkova/**
-
-- 📄 View my CV [cv link here](cv link here)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
