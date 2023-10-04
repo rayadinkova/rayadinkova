@@ -1,4 +1,4 @@
-<h1 align="center">Welcome 👋, I'm Raya Dinkova</h1>
+<h1 align="left">Welcome 👋, I'm Raya Dinkova</h1>
 <h3 align="left">About me:</h3>
 
 <img align="right" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="" />
