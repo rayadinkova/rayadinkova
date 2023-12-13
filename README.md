@@ -7,8 +7,6 @@
 
 - 🧠 Currently studying **Multimedia Design at Business Academy Aarhus**
 
-- 🤝 I’m actively looking for **an internship in Aarhus**
-
 - 📫 How to reach me **https://www.linkedin.com/in/rayadinkova/**
 
 <h3 align="left">Connect with me:</h3>
