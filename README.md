@@ -20,8 +20,6 @@ I’m a dedicated multimedia designer with a passion for software innovations
   <li>JavaScript</li>
   <li>React & React Native, Expo Go</li>
   <li>TypeScript</li>
-  <li>Go Lang</li>
-  <li>GIT</li>
   <li>Figma</li>
 </ul>
 
