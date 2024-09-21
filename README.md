@@ -1,26 +1,35 @@
 <h1 align="left">Welcome 👋, I'm Raya Dinkova</h1>
-<h3 align="left">About me:</h3>
 
-<img align="right" width="350" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" alt="" />
+<img align="right" width="350" src="https://i.pinimg.com/736x/22/01/ea/2201eacd08706ccad1175b5022e3569e.jpg" alt="" />
 
-I’m a dedicated multimedia designer with a passion for software innovations
+I design and develop user-focused digital solutions by combining UX/UI principles with front-end programming.
 
-- 📫 How to reach me **https://www.linkedin.com/in/rayadinkova/**
+<h3 align="left">Current stack</h3>
+<ul>
+  <li>React</li>
+  <li>React Native, Expo Go</li>
+  <li>TypeScript</li>
+  <li>Tailwind CSS</li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Design tools</h3>
+<ul>
+  <li>Figma</li>
+  <li>Adobe Illustrator</li>
+  <li>Adobe Photoshop</li>
+</ul>
+
+<h3 align="left">Project management tools</h3>
+<ul>
+  <li>Notion</li>
+  <li>Miro</li>
+</ul>
+
+<h3 align="left">Link to my personal website</h3>
+
+
+<h3 align="left">Let's connect!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rayadinkova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayadinkova" height="30" width="40" /></a>
 <a href="https://instagram.com/rayadinkova_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rayadinkova_" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Current stack:</h3>
-<ul>
-  <li>HTML</li>
-  <li>CSS, Tailwind CSS</li>
-  <li>JavaScript</li>
-  <li>React & React Native, Expo Go</li>
-  <li>TypeScript</li>
-  <li>Figma</li>
-</ul>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rayadinkova&show_icons=true&locale=en&layout=compact" alt="rayadinkova" /></p>
