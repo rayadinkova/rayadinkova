@@ -25,7 +25,7 @@ I design and develop user-focused digital solutions by combining UX/UI principle
   <li>Miro</li>
 </ul>
 
-<a href="http://rayad.dk/">Take a look at my website!</a>
+<a href="http://rayad.dk/" target="_blank" rel="noopener noreferrer">Take a look at my website!</a>
 
 
 <h3 align="left">Let's connect!</h3>
