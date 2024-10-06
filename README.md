@@ -26,6 +26,7 @@ I design and develop user-focused digital solutions by combining UX/UI principle
 </ul>
 
 <a href="http://rayad.dk/">Take a look at my website!</a>
+🔗[Figma design of the website](https://www.figma.com/design/jT6OyHTVRUP09kCnk1c53E/Portfolio-website?node-id=0-1&t=3TY1Zxa3yZu2erol-1)
 
 
 <h3 align="left">Let's connect!</h3>
