@@ -25,7 +25,7 @@ I design and develop user-focused digital solutions by combining UX/UI principle
   <li>Miro</li>
 </ul>
 
-<a href="http://rayad.dk/">Take a look at my website!</a>
+💻 <a href="http://rayad.dk/">Take a look at my website!</a> <br></br>
 🔗[Figma design of the website](https://www.figma.com/design/jT6OyHTVRUP09kCnk1c53E/Portfolio-website?node-id=0-1&t=3TY1Zxa3yZu2erol-1)
 
 
